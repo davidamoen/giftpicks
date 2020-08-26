@@ -1,0 +1,13 @@
+C:\Users\Dave\source\repos\GiftPicks\GiftPicks\bin\Debug\netcoreapp3.0\GiftPicks.exe
+C:\Users\Dave\source\repos\GiftPicks\GiftPicks\bin\Debug\netcoreapp3.0\GiftPicks.deps.json
+C:\Users\Dave\source\repos\GiftPicks\GiftPicks\bin\Debug\netcoreapp3.0\GiftPicks.runtimeconfig.json
+C:\Users\Dave\source\repos\GiftPicks\GiftPicks\bin\Debug\netcoreapp3.0\GiftPicks.runtimeconfig.dev.json
+C:\Users\Dave\source\repos\GiftPicks\GiftPicks\bin\Debug\netcoreapp3.0\GiftPicks.dll
+C:\Users\Dave\source\repos\GiftPicks\GiftPicks\bin\Debug\netcoreapp3.0\GiftPicks.pdb
+C:\Users\Dave\source\repos\GiftPicks\GiftPicks\obj\Debug\netcoreapp3.0\GiftPicks.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\GiftPicks\GiftPicks\obj\Debug\netcoreapp3.0\GiftPicks.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\GiftPicks\GiftPicks\obj\Debug\netcoreapp3.0\GiftPicks.AssemblyInfo.cs
+C:\Users\Dave\source\repos\GiftPicks\GiftPicks\obj\Debug\netcoreapp3.0\GiftPicks.dll
+C:\Users\Dave\source\repos\GiftPicks\GiftPicks\obj\Debug\netcoreapp3.0\GiftPicks.pdb
+C:\Users\Dave\source\repos\GiftPicks\GiftPicks\obj\Debug\netcoreapp3.0\GiftPicks.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\GiftPicks\GiftPicks\obj\Debug\netcoreapp3.0\GiftPicks.genruntimeconfig.cache
